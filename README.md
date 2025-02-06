@@ -1,4 +1,4 @@
-# GoNetZero - Go Developer Take Home Test
+# Go Developer Take Home Test
 
 ## Objective
 To create a RESTful API that provides the current PSI (Pollutant Standards Index) data, similar to the Data Gov SG API.  
